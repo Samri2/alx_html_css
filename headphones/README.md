@@ -30,5 +30,5 @@ Make sure these fonts are installed:
 ## 🧪 How to Use
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/alx_html_css.git
+git clone https://github.com/samri2/alx_html_css.git
 cd alx_html_css/headphones
